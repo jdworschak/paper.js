@@ -21,6 +21,10 @@
     "LICENSE.txt",
     "README.md"
   ],
+  "jspm": {
+    "main": "dist/paper-full.js",
+    "registry": "npm"
+  },
   "engines": {
     "node": ">= 0.4.0"
   },
