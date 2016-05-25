@@ -28,10 +28,9 @@
   ],
   "jspm": {
     "main": "dist/paper-full.js",
-    "registry": "npm",
     "dependencies": {
-        "jsdom": "^8.3.0",
-        "source-map-support": "^0.4.0" 
+        "jsdom": "npm:jsdom@^8.3.0",
+        "source-map-support": "npm:source-map-support@^0.4.0" 
     }
   },
   "engines": {
